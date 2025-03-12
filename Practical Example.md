@@ -36,5 +36,4 @@ Cryptography plays a crucial role in web penetration testing and bug bounty hunt
 - **JWT.io**: Analyzing and testing JWT security.
 - **John the Ripper & Hashcat**: Cracking password hashes.
 
-## 🚀 Conclusion
-Understanding cryptography is essential for identifying vulnerabilities in modern web applications. Weak encryption, improper implementation, and lack of secure handling can lead to severe security flaws. A solid grasp of cryptographic principles enhances the ability to discover and exploit these issues effectively.
+
