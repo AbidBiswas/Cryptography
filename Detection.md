@@ -10,7 +10,9 @@ john --format=raw-md5 --wordlist=wordlist hash.txt
 First, we have to detect which hash function format it is. For that we can detect it by this website "https://www.dcode.fr/cipher-identifier". 
 Then after detect which hash function used then we have to know john the ripper sign for the command. 
 ### Example:
+```bash
 --format=raw-md5
+```
 
 ### we can use this command to detect john the ripper hash functions:
 hashid -j hash.txt
