@@ -9,7 +9,7 @@
 # Vigenere
 ![image](https://github.com/user-attachments/assets/faf31088-d4b5-4167-af36-db6ce9b47088)
 
-we have to have a key to decrypt the message
+### we have to have a key to decrypt the message
 
 ![image](https://github.com/user-attachments/assets/e2ea08f1-d78f-4651-956c-349a986b4dd9)
 
