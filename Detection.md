@@ -2,6 +2,7 @@
 - https://www.dcode.fr/cipher-identifier
 - https://crackstation.net/
 - https://cryptii.com/pipes/caesar-cipher
+- https://www.tunnelsup.com/hash-analyzer/
 
 
 # command to detect and decode:
