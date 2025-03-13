@@ -1,6 +1,7 @@
 # Websites:
 - https://www.dcode.fr/cipher-identifier
 - https://crackstation.net/
+- https://cryptii.com/pipes/caesar-cipher
 
 
 # command to detect and decode:
