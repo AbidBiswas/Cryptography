@@ -25,6 +25,7 @@ hashcat -m 0 -a 0 -o result.txt 48bb6e862e54f2a795ffc4e541caed4d /usr/share/word
 ```
 ### 💻 Another Example if Salt key is given
 ![image](https://github.com/user-attachments/assets/27eae9de-35ed-44e9-8a8e-86ffe4d8e166)
+here tryhackme is the salt key, so we must define this after :
 
 
 ### Password Cracking Attack Modes 💻🔐
