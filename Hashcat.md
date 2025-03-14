@@ -6,6 +6,14 @@ To crack a hash using Hashcat, use the following general syntax:
 
 ```bash
 hashcat -m <hash_mode> -a <attack_mode> -o <output_file> <target_hash_file> <wordlist_file>
+```
+# 🔐 **Example**
+
+## 💻 **Command: Dictionary Attack (MD5)**
+
+```bash
+hashcat -m 0 -a 0 -o cracked_hashes.txt hashes.txt wordlist.txt
+
 
 | Hash Type                | Hash Mode (`-m`) |
 |--------------------------|------------------|
