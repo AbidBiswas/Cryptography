@@ -1,9 +1,9 @@
 # Websites 🌐
 
-- [dcode Cipher Identifier](https://www.dcode.fr/cipher-identifier) 🔍
-- [CrackStation](https://crackstation.net/) 💥
-- [cryptii Caesar Cipher](https://cryptii.com/pipes/caesar-cipher) 🔑
-- [TunnelsUp Hash Analyzer](https://www.tunnelsup.com/hash-analyzer/) 📊
+- [dcode Cipher Identifier](https://www.dcode.fr/cipher-identifier) 
+- [CrackStation](https://crackstation.net/) 
+- [cryptii Caesar Cipher](https://cryptii.com/pipes/caesar-cipher) 
+- [TunnelsUp Hash Analyzer](https://www.tunnelsup.com/hash-analyzer/) 
 
 
 # command to detect and decode 💻
