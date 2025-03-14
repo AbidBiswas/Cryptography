@@ -8,7 +8,7 @@ To crack a hash using Hashcat, use the following general syntax:
 ```bash
 hashcat -m <hash_mode> -a <attack_mode> -o <output_file> <target_hash_file> <wordlist_file>
 ```
-## 🔐 **Example**
+## ⚡**Example**
 
 ### 💻 **Command: Straight Mode (MD5)**
 
@@ -33,13 +33,13 @@ here tryhackme is the salt key, so we must define this after :
 - We can try to search the specific feature in hashcat wiki also which has been given on the top of the note as Ref: https://hashcat.net/wiki/doku.php?id=hashcat
 - In this case it's SHA-512
 
-## Base-64 RSA Decoder Website
+## ⚡ Base-64 RSA Decoder Website
 https://www.devglan.com/online-tools/rsa-encryption-decryption
 
 
 
 
-## Password Cracking Attack Modes 💻🔐
+## ⚡ Password Cracking Attack Modes 💻🔐
 Below is a quick reference table for different attack modes used in password cracking:
 | **Mode** | **Description**              |
 |----------|------------------------------|
@@ -52,7 +52,7 @@ Below is a quick reference table for different attack modes used in password cra
 
 
 
-## Hash Type and Hash Mode
+## ⚡ Hash Type and Hash Mode
 | Hash Type                | Hash Mode (`-m`) |
 |--------------------------|------------------|
 | MD5                      | 0                |
