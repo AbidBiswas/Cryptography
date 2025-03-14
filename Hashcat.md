@@ -28,11 +28,8 @@ hashcat -m 0 -a 0 -o result.txt 48bb6e862e54f2a795ffc4e541caed4d /usr/share/word
 here tryhackme is the salt key, so we must define this after :
 
 
-### Password Cracking Attack Modes 💻🔐
-
+## Password Cracking Attack Modes 💻🔐
 Below is a quick reference table for different attack modes used in password cracking:
-# Attack Modes
-
 | **Mode** | **Description**              |
 |----------|------------------------------|
 | 0        | Straight                     |
