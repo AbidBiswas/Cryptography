@@ -90,26 +90,6 @@ Below is a quick reference table for different attack modes used in password cra
 
 
 
-# Colorful Bash Commands 🎨
-
-Below are some examples of colorful bash commands in markdown:
-
-```bash
-# Set text color to green
-echo -e "\e[32mThis is a green text\e[0m"
-
-# Set text color to red
-echo -e "\e[31mThis is a red text\e[0m"
-
-# Set text color to blue
-echo -e "\e[34mThis is a blue text\e[0m"
-
-# Set text color to yellow
-echo -e "\e[33mThis is a yellow text\e[0m"
-
-# Set background color to yellow and text color to black
-echo -e "\e[43;30mThis is a black text on a yellow background\e[0m"
-
 
 
 
