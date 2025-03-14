@@ -39,7 +39,7 @@ Below is a quick reference table for different attack modes used in password cra
 
 
 
-### hash type and hash mode
+# Hash Type and Hash Mode
 | Hash Type                | Hash Mode (`-m`) |
 |--------------------------|------------------|
 | MD5                      | 0                |
