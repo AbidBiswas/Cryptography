@@ -15,6 +15,23 @@ hashcat -m <hash_mode> -a <attack_mode> -o <output_file> <target_hash_file> <wor
 hashcat -m 0 -a 0 -o cracked_hashes.txt hashes.txt wordlist.txt
 ```
 
+# Password Cracking Attack Modes 💻🔐
+
+Below is a quick reference table for different attack modes used in password cracking:
+
+| **Attack Name**         | **Mode**         |  
+|-------------------------|------------------|  
+| 🔑 **Dictionary Attack**  | -a 0             |  
+| 🛡️ **Brute-Force Attack** | -a 3             |  
+| 🔄 **Combination Attack** | -a 1             |  
+| 🎭 **Mask Attack**        | -a 3             |  
+| 💡 **Hybrid Attack**      | -a 6 or -a 7     |  
+| 🔄 **Rule-Based Attack**  | -a 0 with -r     |  
+| 🖥️ **GPU-Only Attack**    | -a 4             |  
+| 🔮 **Markov Chain Attack**| -a 9             |  
+| 🔠 **Toggle Case Attack** | -a 11            |  
+
+
 
 | Hash Type                | Hash Mode (`-m`) |
 |--------------------------|------------------|
