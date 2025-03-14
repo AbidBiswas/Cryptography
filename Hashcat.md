@@ -1,3 +1,12 @@
+# 🔐 **Hashcat Command Example**
+
+## 📝 **General Syntax**
+
+To crack a hash using Hashcat, use the following general syntax:
+
+```bash
+hashcat -m <hash_mode> -a <attack_mode> -o <output_file> <target_hash_file> <wordlist_file>
+
 | Hash Type                | Hash Mode (`-m`) |
 |--------------------------|------------------|
 | MD5                      | 0                |
@@ -32,12 +41,5 @@
 | SSH2                     | 10200            |
 
 
-# 🔐 **Hashcat Command Example**
 
-## 📝 **General Syntax**
-
-To crack a hash using Hashcat, use the following general syntax:
-
-```bash
-hashcat -m <hash_mode> -a <attack_mode> -o <output_file> <target_hash_file> <wordlist_file>
 
