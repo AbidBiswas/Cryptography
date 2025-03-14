@@ -1,21 +1,21 @@
-# 🔐 **Hashcat Command Example**
+# **Hashcat Command Example**
 
-## 📝 **General Syntax**
+### 📝 **General Syntax**
 
 To crack a hash using Hashcat, use the following general syntax:
 
 ```bash
 hashcat -m <hash_mode> -a <attack_mode> -o <output_file> <target_hash_file> <wordlist_file>
 ```
-# 🔐 **Example**
+### 🔐 **Example**
 
-## 💻 **Command: Dictionary Attack (MD5)**
+### 💻 **Command: Dictionary Attack (MD5)**
 
 ```bash
 hashcat -m 0 -a 0 -o cracked_hashes.txt hashes.txt wordlist.txt
 ```
 
-# Password Cracking Attack Modes 💻🔐
+### Password Cracking Attack Modes 💻🔐
 
 Below is a quick reference table for different attack modes used in password cracking:
 
@@ -32,7 +32,7 @@ Below is a quick reference table for different attack modes used in password cra
 | 🔠 **Toggle Case Attack** | -a 11            |  
 
 
-
+### hash type and hash mode
 | Hash Type                | Hash Mode (`-m`) |
 |--------------------------|------------------|
 | MD5                      | 0                |
