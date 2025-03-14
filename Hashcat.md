@@ -14,7 +14,7 @@ hashcat -m <hash_mode> -a <attack_mode> -o <output_file> <target_hash_file> <wor
 ```bash
 hashcat -m 0 -a 0 -o cracked_hashes.txt hashes.txt wordlist.txt
 ```
-### another example
+### 💻 Another Example
 ```bash
 hashcat -m 0 -a 0 -o result.txt md5hash_value /usr/share/wordlists/rockyou.txt
 ```
