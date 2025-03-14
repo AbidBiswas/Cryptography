@@ -27,7 +27,6 @@ hashid -j hash.txt
 ### A successfull decoding will be look like this:
 ![image](https://github.com/user-attachments/assets/ecfe386a-e7e6-4842-9a1c-ef23c854bdb8)
 
-A basic wordlist might look like this:
 
 
 
