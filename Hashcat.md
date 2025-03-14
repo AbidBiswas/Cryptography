@@ -27,11 +27,11 @@ hashcat -m 0 -a 0 -o result.txt 48bb6e862e54f2a795ffc4e541caed4d /usr/share/word
 ![image](https://github.com/user-attachments/assets/27eae9de-35ed-44e9-8a8e-86ffe4d8e166)
 here tryhackme is the salt key, so we must define this after :
 
-### 💻 Hard Problem
+### 💻 Hard Problem (SHA-512)
 ![image](https://github.com/user-attachments/assets/af9ab9db-3633-49a4-932e-bf20cce6ea94)
-We must google the hash type as online tools won't be able to solve it directly.
-We can try to search the specific feature in hashcat wiki also which has been given on the top of the note as Ref: https://hashcat.net/wiki/doku.php?id=hashcat
-In this case it's SHA-512
+- We must google the hash type as online tools won't be able to solve it directly
+- We can try to search the specific feature in hashcat wiki also which has been given on the top of the note as Ref: https://hashcat.net/wiki/doku.php?id=hashcat
+- In this case it's SHA-512
 
 
 
