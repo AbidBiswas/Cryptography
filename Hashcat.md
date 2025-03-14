@@ -26,18 +26,17 @@ hashcat -m 0 -a 0 -o result.txt 48bb6e862e54f2a795ffc4e541caed4d /usr/share/word
 ### Password Cracking Attack Modes 💻🔐
 
 Below is a quick reference table for different attack modes used in password cracking:
+# Attack Modes
 
-| **Attack Name**         | **Mode**         |  
-|-------------------------|------------------|  
-| 🔑 **Straight Attack**  | -a 0             |  
-| 🛡️ **Brute-Force Attack** | -a 3             |  
-| 🔄 **Combination Attack** | -a 1             |  
-| 🎭 **Mask Attack**        | -a 3             |  
-| 💡 **Hybrid Attack**      | -a 6 or -a 7     |  
-| 🔄 **Rule-Based Attack**  | -a 0 with -r     |  
-| 🖥️ **GPU-Only Attack**    | -a 4             |  
-| 🔮 **Markov Chain Attack**| -a 9             |  
-| 🔠 **Toggle Case Attack** | -a 11            |  
+| **Mode** | **Description**              |
+|----------|------------------------------|
+| 0        | Straight                     |
+| 1        | Combination                  |
+| 3        | Brute-force                  |
+| 6        | Hybrid Wordlist + Mask       |
+| 7        | Hybrid Mask + Wordlist       |
+| 9        | Association                  |
+
 
 
 ### hash type and hash mode
