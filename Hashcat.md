@@ -7,7 +7,7 @@ To crack a hash using Hashcat, use the following general syntax:
 ```bash
 hashcat -m <hash_mode> -a <attack_mode> -o <output_file> <target_hash_file> <wordlist_file>
 ```
-### 🔐 **Example**
+## 🔐 **Example**
 
 ### 💻 **Command: Dictionary Attack (MD5)**
 
