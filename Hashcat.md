@@ -9,7 +9,7 @@ hashcat -m <hash_mode> -a <attack_mode> -o <output_file> <target_hash_file> <wor
 ```
 ## 🔐 **Example**
 
-### 💻 **Command: Dictionary Attack (MD5)**
+### 💻 **Command: Straight Mode (MD5)**
 
 ```bash
 hashcat -m 0 -a 0 -o cracked_hashes.txt hashes.txt wordlist.txt
@@ -29,7 +29,7 @@ Below is a quick reference table for different attack modes used in password cra
 
 | **Attack Name**         | **Mode**         |  
 |-------------------------|------------------|  
-| 🔑 **Dictionary Attack**  | -a 0             |  
+| 🔑 **Straight Attack**  | -a 0             |  
 | 🛡️ **Brute-Force Attack** | -a 3             |  
 | 🔄 **Combination Attack** | -a 1             |  
 | 🎭 **Mask Attack**        | -a 3             |  
