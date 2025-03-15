@@ -26,6 +26,10 @@ hashid -j hash.txt
 ### by using *hashid* we can also determine the value we need to use for John the Ripper 
 ![image](https://github.com/user-attachments/assets/2ec9d2fa-8daa-413e-9a19-cf842068631f)
 
+## we can do this task more smoothly and faster with haiti
+![image](https://github.com/user-attachments/assets/bbe3a57c-7cae-4dcc-af41-27e6923f2fb7)
+
+
 
 ### we have to make a custom wordlist like this:
 ![image](https://github.com/user-attachments/assets/afbaea3a-d8b9-4871-b799-eabbdd2dea82)
