@@ -29,6 +29,11 @@ hashid -j hash.txt
 ## we can do this task more smoothly and faster with haiti
 ![image](https://github.com/user-attachments/assets/bbe3a57c-7cae-4dcc-af41-27e6923f2fb7)
 
+# we can identify the hash by using the hash-identifier tool in kali. We have to use the command below and then we have to press enter. Aftert that, we have to paste our hash and it will detect the possible outcome.
+```bash
+hash-identifier
+```
+
 
 
 ### we have to make a custom wordlist like this:
