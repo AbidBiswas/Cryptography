@@ -23,6 +23,10 @@ hashid -j hash.txt
 ### by using *hashid* we can also determine the value we need to use for hashcat 
 ![image](https://github.com/user-attachments/assets/088be575-1d6d-4977-a1ae-21702ed8944e)
 
+### by using *hashid* we can also determine the value we need to use for John the Ripper 
+![image](https://github.com/user-attachments/assets/2ec9d2fa-8daa-413e-9a19-cf842068631f)
+
+
 ### we have to make a custom wordlist like this:
 ![image](https://github.com/user-attachments/assets/afbaea3a-d8b9-4871-b799-eabbdd2dea82)
 
