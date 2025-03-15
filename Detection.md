@@ -20,6 +20,8 @@ Then after detect which hash function used then we have to know john the ripper 
 hashid -j hash.txt
 ```
 ![image](https://github.com/user-attachments/assets/f209259e-175d-4604-a4a3-e57741173608)
+### by using *hashid* we can also determine the value we need to use for hashcat 
+![image](https://github.com/user-attachments/assets/088be575-1d6d-4977-a1ae-21702ed8944e)
 
 ### we have to make a custom wordlist like this:
 ![image](https://github.com/user-attachments/assets/afbaea3a-d8b9-4871-b799-eabbdd2dea82)
